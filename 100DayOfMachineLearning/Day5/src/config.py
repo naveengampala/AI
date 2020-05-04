@@ -1,0 +1,1 @@
+TRAINING_FILE = '../../data/movie_metadata.csv'
