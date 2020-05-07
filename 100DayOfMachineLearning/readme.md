@@ -9,3 +9,5 @@ If you have a suggestion, or you want to contribute some code, you are free to m
 Your contributions will be visible since this project is public.
 
 Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayOfMachineLearning/data).
+
+## Support Vector Machine | Day 6
