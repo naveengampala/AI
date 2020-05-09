@@ -14,6 +14,9 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 [Introduction to Machine Learning](https://medium.com/@naveengampala/chapter-00-introduction-to-machine-learning-for-beginners-138298507094)
 
 ## Notebooks
+[Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
+
 
 ## Support Vector Machine | Day 6
+
 
