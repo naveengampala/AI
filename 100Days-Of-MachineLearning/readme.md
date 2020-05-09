@@ -19,4 +19,6 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 
 ## Support Vector Machine | Day 6
 
+## K-Means | Day 7
+
 
