@@ -10,4 +10,10 @@ Your contributions will be visible since this project is public.
 
 Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayOfMachineLearning/data).
 
+## Articles
+[Introduction to Machine Learning](https://medium.com/@naveengampala/chapter-00-introduction-to-machine-learning-for-beginners-138298507094)
+
+## Notebooks
+
 ## Support Vector Machine | Day 6
+
