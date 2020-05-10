@@ -22,7 +22,7 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 
 ## K-Means | Day 7
 
-Let's say we are given Weight and Height of the of the Chimps and Monkey we have to make two dfferent clusters. The Essentail Idea is 
+Let's say we are given Weight and Height of the of the Chimps and Monkey we have to make two dfferent clusters.The Essentail Idea: 
 
 - Distance between the points within a cluster should be Minimized
 - Distance of points belonging to different cluster should be maximized
