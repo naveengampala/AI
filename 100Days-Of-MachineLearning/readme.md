@@ -17,7 +17,7 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 - [Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
 
 ## Data Pre-Processing | Day 1
-
+you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day1/src/Data%20Pre-Processing.ipynb).
 - Reading a Dataframe using pandas
 - Handles missing values and returns total and percentage 
 - First Check the what feature are Categorical Encode using get_dummies pandas function
