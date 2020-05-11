@@ -23,7 +23,8 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - First Check the what feature are Categorical Encode using get_dummies pandas function
 - Spliting Dataset into Trian and Test using sklearn
 
-## Simple Linear Regression | Day 2
+## Simple Logistic Regression | Day 2
+you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day2/src/Simple%20Logistic%20Regression.ipynb).
 
 
 ## Support Vector Machine | Day 6
