@@ -41,7 +41,7 @@ class Day:
     
     def model_train_and_predict(X_train, X_test, y_train, y_test):
         """
-            Simple Linear Regression Model to the Training Set
+            Simple Logistic Regression Model to the Training Set
         """
         model = LogisticRegression()
         model.fit(X_train, y_train)

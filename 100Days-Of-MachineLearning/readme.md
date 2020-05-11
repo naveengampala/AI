@@ -26,6 +26,9 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 ## Simple Logistic Regression | Day 2
 you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day2/src/Simple%20Logistic%20Regression.ipynb).
 
+- Introduction to Logistic Regression
+- Preprocessing the data essentialy dealing with Missing values
+- Logistic regression in scikit-learn
 
 ## Support Vector Machine | Day 6
 
