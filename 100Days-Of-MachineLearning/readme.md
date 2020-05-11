@@ -16,6 +16,15 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 ## Notebooks
 - [Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
 
+## Data Pre-Processing | Day 1
+
+- Reading a Dataframe using pandas
+- Handles missing values and returns total and percentage 
+- First Check the what feature are Categorical Encode using get_dummies pandas function
+- Spliting Dataset into Trian and Test using sklearn
+
+## Simple Linear Regression | Day 2
+
 
 ## Support Vector Machine | Day 6
 
