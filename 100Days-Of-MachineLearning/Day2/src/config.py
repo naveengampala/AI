@@ -1,0 +1,1 @@
+TRAINING_FILE = '../../data/titanic_train.csv'
