@@ -16,6 +16,8 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 ## Notebooks
 - [Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
 
+- [Titanic Dataset -- Logistic Regression](https://www.kaggle.com/ngmpala/eda-titanic-dataset)
+
 ## Data Pre-Processing | Day 1
 you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day1/src/Data%20Pre-Processing.ipynb).
 - Reading a Dataframe using pandas
