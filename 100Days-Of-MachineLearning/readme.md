@@ -32,6 +32,9 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Preprocessing the data essentialy dealing with Missing values
 - Logistic regression in scikit-learn
 
+## Simple Linear Regression | Day 3
+
+
 ## Support Vector Machine | Day 6
 
 
