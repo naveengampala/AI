@@ -46,7 +46,7 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Linear regression in scikit-learn
 - Root Mean Square Error 
 
-## exploratory data analysis on Prediction of Quality of Wine | Day 4
+## Exploratory Data Analysis on Prediction of Quality of Wine | Day 4
 
 ## Support Vector Machine | Day 6
 
