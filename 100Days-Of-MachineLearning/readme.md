@@ -13,11 +13,17 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 ## Articles
 - [Introduction to Machine Learning](https://medium.com/@naveengampala/chapter-00-introduction-to-machine-learning-for-beginners-138298507094)
 
+
 ## Notebooks
 - [Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
 
 - [Titanic Dataset -- Logistic Regression](https://www.kaggle.com/ngmpala/eda-titanic-dataset)
 
+## Issue with Notebooks
+If we are finding issue with open Notebook in github. try to open that notebook that you want using nbviewer online, you don't need to install it,
+
+- open https://nbviewer.jupyter.org/ 
+- paste the URL of the Notebook.
 ## Data Pre-Processing | Day 1
 you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day1/src/Data%20Pre-Processing.ipynb).
 - Reading a Dataframe using pandas
