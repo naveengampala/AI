@@ -1,5 +1,3 @@
-
-
 # ## 100Days of Machine Learning
 
 This project will be updated slowly as required, so stay tuned.
@@ -24,6 +22,7 @@ If we are finding issue with open Notebook in github. try to open that notebook 
 
 - open https://nbviewer.jupyter.org/ 
 - paste the URL of the Notebook.
+
 ## Data Pre-Processing | Day 1
 you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day1/src/Data%20Pre-Processing.ipynb).
 - Reading a Dataframe using pandas
@@ -45,6 +44,8 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Preprocessing the data essentialy dealing with Missing values
 - Linear regression in scikit-learn
 - Root Mean Square Error 
+
+## exploratory data analysis on Prediction of Quality of Wine | Day 4
 
 
 ## Support Vector Machine | Day 6
