@@ -19,7 +19,7 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 
 - [Titanic Dataset -- Logistic Regression](https://www.kaggle.com/ngmpala/eda-titanic-dataset)
 
-## Issue with Notebooks
+## Issue with Opening Notebooks
 If we are finding issue with open Notebook in github. try to open that notebook that you want using nbviewer online, you don't need to install it,
 
 - open https://nbviewer.jupyter.org/ 
