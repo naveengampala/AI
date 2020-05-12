@@ -39,6 +39,12 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Logistic regression in scikit-learn
 
 ## Simple Linear Regression | Day 3
+you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day3/src/Simple%20Linear%20Regression.ipynb).
+
+- Introduction to Linear Regression
+- Preprocessing the data essentialy dealing with Missing values
+- Linear regression in scikit-learn
+- Root Mean Square Error 
 
 
 ## Support Vector Machine | Day 6
