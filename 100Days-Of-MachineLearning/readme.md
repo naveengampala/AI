@@ -46,7 +46,7 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Linear regression in scikit-learn
 - Root Mean Square Error 
 
-## Exploratory Data Analysis on Prediction of Quality of Wine | Day 4
+## Exploratory Data Analysis on Prediction of Quality of Wine - Part 1 | Day 4
 you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day4/src/Exploratory%20Data%20Analysis.ipynb).
 
 - Value of Exploratory Data Analysis
@@ -54,8 +54,13 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Visualising Pairwise correlation
 - Calculating and plotting heatmap correlation
 
+## Exploratory Data Analysis on Prediction of Quality of Wine - Part 2 | Day 5
+
 
 ## Support Vector Machine | Day 6
+
+
+## Implementation of Support Vector Machine | Day 6
 
 
 ## K-Means | Day 7
@@ -65,5 +70,5 @@ Let's say we are given Weight and Height of the of the Chimps and Monkey we have
 - Distance between the points within a cluster should be Minimized
 - Distance of points belonging to different cluster should be maximized
 
-
+## Implementation of K-Means | Day 8
 
