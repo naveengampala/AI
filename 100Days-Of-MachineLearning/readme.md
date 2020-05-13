@@ -47,6 +47,13 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Root Mean Square Error 
 
 ## Exploratory Data Analysis on Prediction of Quality of Wine | Day 4
+you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day4/src/Exploratory%20Data%20Analysis.ipynb).
+
+- Value of Exploratory Data Analysis
+- Distribution of Features
+- Visualising Pairwise correlation
+- Calculating and plotting heatmap correlation
+
 
 ## Support Vector Machine | Day 6
 
