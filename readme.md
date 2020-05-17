@@ -4,12 +4,14 @@ This project will be updated slowly as required, so stay tuned.
 
 If you have a suggestion, or you want to contribute some code, you are free to make a pull request.
 
-Your contributions will be visible since this project is public.
+Your contributions will be visible since this project is public.    
 
-Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayOfMachineLearning/data).
+Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100Days-Of-MachineLearning/data).
 
 ## Articles
 - [Introduction to Machine Learning](https://medium.com/@naveengampala/chapter-00-introduction-to-machine-learning-for-beginners-138298507094)
+
+- [Introduction to Linear Regression](https://medium.com/@naveengampala/chapter-01-introduction-to-linear-regression-6285b23c3e66)
 
 
 ## Notebooks
@@ -46,7 +48,7 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Root Mean Square Error 
 
 
-## Exploratory Data Analysis on Prediction of Quality of Wine - Part 1 | Day 4
+## Exploratory Data Analysis on Prediction of Quality of Wine - Part I | Day 4
 you can check Jupyter Notebook Implementation [here](https://github.com/naveengampala/AI/blob/master/100Days-Of-MachineLearning/Day4/src/Exploratory%20Data%20Analysis.ipynb).
 
 - Value of Exploratory Data Analysis
@@ -54,7 +56,7 @@ you can check Jupyter Notebook Implementation [here](https://github.com/naveenga
 - Visualising Pairwise correlation
 - Calculating and plotting heatmap correlation
 
-## Exploratory Data Analysis on Prediction of Quality of Wine - Part 2 | Day 5
+## Exploratory Data Analysis on Prediction of Quality of Wine - Part II | Day 5
 
 
 ## Support Vector Machine | Day 6
@@ -72,3 +74,15 @@ Let's say we are given Weight and Height of the of the Chimps and Monkey we have
 
 ## Implementation of K-Means | Day 8
 
+## Writing Article on Medium | Day 16 & Day 17
+you can check article [here](https://medium.com/@naveengampala/chapter-01-introduction-to-linear-regression-6285b23c3e66)
+Linear Regression is a very powerful Machine Learning algorithm that used to calculate a baseline results for predicting future outcomes.
+
+In this article we’ll learn about the following topics:
+
+- Introduction to Linear Regression
+- Cost Function
+- Applications of Linear Regression
+- Implementing Linear Regression with Scikit-Learn
+- Pros and Cons
+- Summary
