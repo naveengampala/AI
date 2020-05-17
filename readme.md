@@ -75,7 +75,7 @@ Let's say we are given Weight and Height of the of the Chimps and Monkey we have
 ## Implementation of K-Means | Day 8
 
 ## Writing Article on Medium | Day 16 & Day 17
-you can check article [here](https://medium.com/@naveengampala/chapter-01-introduction-to-linear-regression-6285b23c3e66)
+you can check article [here](https://medium.com/@naveengampala/chapter-01-introduction-to-linear-regression-6285b23c3e66) <br>
 Linear Regression is a very powerful Machine Learning algorithm that used to calculate a baseline results for predicting future outcomes.
 
 In this article we’ll learn about the following topics:
