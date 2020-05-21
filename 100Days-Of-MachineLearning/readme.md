@@ -13,6 +13,8 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100DayO
 ## Articles
 - [Introduction to Machine Learning](https://medium.com/@naveengampala/chapter-00-introduction-to-machine-learning-for-beginners-138298507094)
 
+- [Introduction to Linear Regresion](https://medium.com/analytics-vidhya/chapter-01-introduction-to-linear-regression-6285b23c3e66)
+
 
 ## Notebooks
 - [Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
@@ -132,5 +134,15 @@ In this article we’ll learn about the following topics:
 - Cost Function
 - Applications of Linear Regression
 - Implementing Linear Regression with Scikit-Learn
+- Pros and Cons
+- Summary
+
+## Writing Article on Medium | Day 18 & Day 19
+
+In this article we’ll learn about the following topics:
+
+- Introduction to Logistic Regression
+- Applications of Logistic Regression
+- Mathematics behind Logistic Regression with Scikit-Learn
 - Pros and Cons
 - Summary
