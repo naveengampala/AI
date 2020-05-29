@@ -123,6 +123,16 @@ Let's say we are given Weight and Height of the of the Chimps and Monkey we have
 
 ## Implementation of K-Means | Day 8
 
+## Gaussian Discriminant Analysis | Day 9
+
+## Naive Bayes Algorithm | Day 10
+
+## Implementation of Gaussian Discriminant Analysis | Day 11
+
+## Implementation of Naive Bayes Algorithm | Day 12
+
+
+
 ## Writing Article on Medium | Day 16 & Day 17
 you can check article [here](https://medium.com/@naveengampala/chapter-01-introduction-to-linear-regression-6285b23c3e66)
 
@@ -144,5 +154,27 @@ In this article we’ll learn about the following topics:
 - Introduction to Logistic Regression
 - Applications of Logistic Regression
 - Mathematics behind Logistic Regression with Scikit-Learn
+- Pros and Cons
+- Summary
+
+## Writing Article on Medium | Day 20 & Day 21
+
+In this article we’ll learn about the following topics:
+
+- Introduction to Gaussian Discriminant Analysis
+- Mathematics behind The Logistic Regression
+- Application of Gaussian Discriminant Analysis
+- Implementing Gaussian Discriminant Analysis with Scikit-Learn
+- Pros and Cons
+- Summary
+
+## Writing Article on Medium | Day 22 & Day 23
+
+In this article we’ll learn about the following topics:
+
+- Introduction to Naive Bayes Algorithm
+- Mathematics behind The Naive Bayes Algorithm
+- Application of Naive Bayes Algorithm
+- Implementing Naive Bayes Algorithm with Scikit-Learn
 - Pros and Cons
 - Summary
