@@ -62,6 +62,8 @@ Find the datasets [here](https://github.com/naveengampala/AI/tree/master/100Days
 
 - [Introduction to Linear Regression](https://medium.com/@naveengampala/chapter-01-introduction-to-linear-regression-6285b23c3e66)
 
+- [Introduction to Logistic Regression](https://medium.com/analytics-vidhya/chapter-02-introduction-to-logistic-regression-f4750d55ac4a)
+
 
 ## Notebooks
 - [Prediction of Quality of Wine -- Support Vector Machine](https://www.kaggle.com/ngmpala/prediction-of-quality-of-wine-svm)
@@ -148,6 +150,7 @@ In this article we’ll learn about the following topics:
 - Summary
 
 ## Writing Article on Medium | Day 18 & Day 19
+you can check article [here](https://medium.com/analytics-vidhya/chapter-02-introduction-to-logistic-regression-f4750d55ac4a)
 
 In this article we’ll learn about the following topics:
 
