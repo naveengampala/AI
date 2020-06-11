@@ -75,6 +75,17 @@ Let's say we are given Weight and Height of the of the Chimps and Monkey we have
 ## Implementation of K-Means | Day 8
 
 ## Gaussian Discriminant Analysis | Day 9
+Last few days we explored a class of Regreesion models having particularly simple analytical and computationall properties 
+
+For Regression problems, The target variable *t* was simply the vector of real numbers, whose values we wish to predict. In the case of Classification. There are various ways of target values to represent class lables.
+
+- For Probabilistic models the most convinient, In the case of two-class problems is the binary represention in which there is a single target values *t* belongs to *{0,1}* such that *t=1* represents class 1 and *t=0* represents the class 2
+
+- For K>2 classes, It is convient to use 1-of-K coding scheme in which t is a vector of length K. such that if the class is *C_J* then all elements *t_k* of t are zero except element *t_j* 
+ t = {0, 1, 0, 0, 0}^T
+
+Gaussian Discriminant Analysis is generative approch in which we model class-conditional densities givn by 
+-<img src="https://latex.codecogs.com/gif.latex?P(X | C_k ), together 
 
 ## Naive Bayes Algorithm | Day 10
 
