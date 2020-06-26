@@ -75,6 +75,17 @@ Let's say we are given Weight and Height of the of the Chimps and Monkey we have
 ## Implementation of K-Means | Day 8
 
 ## Gaussian Discriminant Analysis | Day 9
+Last few days we explored a class of Regression models having particularly simple analytical and computational properties 
+
+For Regression problems, The target variable *t* was simply the vector of real numbers, whose values we wish to predict. In the case of Classification. There are various ways of target values to represent class labels.
+
+- For Probabilistic models, the most convenient, In the case of two-class problems is the binary representation in which there is a single target value *t* belongs to *{0,1}* such that *t=1* represents class 1 and *t=0* represents the class 2
+
+- For K>2 classes, It is convenient to use 1-of-K coding scheme in which t is a vector of length K. such that if the class is *C_J* then all elements *t_k* of t are zero except element *t_j* 
+ t = {0, 1, 0, 0, 0}^T
+
+Gaussian Discriminant Analysis is a generative approach in which we model class-conditional densities given by 
+- P(X | C_k ), together with prior probabilities P (C_k)
 
 ## Naive Bayes Algorithm | Day 10
 
@@ -130,3 +141,7 @@ In this article we’ll learn about the following topics:
 - Implementing Naive Bayes Algorithm with Scikit-Learn
 - Pros and Cons
 - Summary
+## Gram–Schmidt orthogonalization | Day 39 
+The Gram-Schmidt iteeration is the basis of one if two principal numerical algorithms for computing QR factorizations. It is a process of traingular orthogonalization making the columns of a matrix orthonormal via a sequence of matrix operated that can be interpreted as Multiplication on the right by UpperTraingular Matrices.
+
+## Feature Selection through Gram–Schmidt orthogonalization | Day 39 
